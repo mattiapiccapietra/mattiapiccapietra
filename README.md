@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mattiapiccapietra
+- 👀 I’m interested in Backend Development and Mobile Apps 
+- 🌱 I’m currently learning Nest.Js and Flutter
+- 📫 How to reach me: mattiapiccapietra@gmail.com
